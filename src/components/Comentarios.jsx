@@ -1,3 +1,4 @@
+import '../styles/comentarios.scss'
 export function Comentarios(){
     return(
     <section class="review">

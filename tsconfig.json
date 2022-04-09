@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["dom","dom.iterable","esnext"],
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "allowJs": true, //TEM Q SER ESSA CONFIG PARA PODER TER ARQUIVOS JS E TSC
+    "noEmit": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}

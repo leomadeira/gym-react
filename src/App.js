@@ -4,6 +4,9 @@ import './components/Header'
 import './styles/Global.scss'
 import { Sobre } from './components/Sobre';
 import { Recursos } from './components/Recursos';
+import { Orcamento } from './components/Orcamento';
+import { Treinadores } from './components/Treinadores';
+import { Banner } from './components/Banner';
 
 function App() {
   return (
@@ -12,6 +15,9 @@ function App() {
       <Home />
       <Sobre />
       <Recursos />
+      <Orcamento />
+      <Treinadores />
+      <Banner />
     </>
   );
 }

@@ -1,3 +1,4 @@
+import '../styles/orcamento.scss'
 export function Orcamento(){
     return(
     <section class="pricing" id="pricing">
